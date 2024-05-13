@@ -1,0 +1,7 @@
+.active-item {
+  color: greenyellow;
+}
+
+.pending-item {
+  color: red;
+}
